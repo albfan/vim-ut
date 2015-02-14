@@ -1,11 +1,11 @@
 {
-  "name" : "UT",
+  "name" : "vim-ut",
   "version" : "dev",
   "author" : "Luc Hermitte <http://code.google.com/p/lh-vim/wiki/contact>",
   "maintainer" : "Luc Hermitte <http://code.google.com/p/lh-vim/wiki/contact>",
-  "repository" : {"type": "svn", "url": "http://lh-vim.googlecode.com/svn/BTW/trunk"},
+  "repository" : {"type": "git", "url": "http://github.com/albfan/vim-ut"},
   "dependencies" : {
-      "lh-vim-lib" : {"type" : "svn", "url" : "http://lh-vim.googlecode.com/svn/vim-lib/trunk"}
+      "lh-vim-lib" : {"type" : "git", "url" : "http://github.com/albfan/vim-lib"}
   },
   "description" : "Unit Testing Framework for Vim",
   "homepage" : "http://code.google.com/p/lh-vim/wiki/UT"
